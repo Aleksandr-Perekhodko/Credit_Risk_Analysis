@@ -1,5 +1,7 @@
 # Credit_Risk_Analysis
 
+![machine-learningPic (2)](https://user-images.githubusercontent.com/97326526/175851686-e07bdb0b-80a0-4a0d-b165-10c5ab35fb18.jpeg)
+
 ## Overview of Project
 
 This project focuses on using python in Jupyter Notebook, in python we used supervised machine learning. There were 6 machine learning models that were used and they were, oversampling, SMOTE oversampling, undersampling, SMOTEENN over and under sampling, Balanced Random Forest Classifier, and Easy Ensemble AdaBoost Classifier. We use these machine learning model to get the balanced accuracy score of these learning models and a imbalanced classification report. The accuracy score shows us how well the accuracy is of our machine learning model is doing with the specific data set. And the imbalanced classification report will shows us many result scores but we will focus on the precision and recall (sensitivity) scores.
